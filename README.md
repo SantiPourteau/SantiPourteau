@@ -7,8 +7,6 @@ Hope you ❤️ the repo. Don't forget to follow.
 Im a student of the first class of 🧠 **`Artificial Intelligence Engineering`** at the University of San Andrés, Argentina.
 
  🔥 I am one of the authors of the first Convolutional-KANs, an alternative to convolutional networks that replace the classical linear convolution transform with learnable nonlinear activations at each pixel  ｜ ![GitHub stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs?style=social)
-
- Currently working at WollenLabs [![LinkedInWollen]([http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]](https://www.linkedin.com/company/wollenlabs/posts/?feedView=all)
  
 ---
 ### Where to find me:
